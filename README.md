@@ -15,8 +15,8 @@ This application is developed for the Covid-19 pandemic that is going on around 
 
 # Links
 
-- <a href="https://www.figma.com/file/Tx8pJdK9piZwvJVUVJc1tJ/Figma-Test-2?node-id=0%3A1">Figma Design</a>
-- <a href="https://youtu.be/7yYiRAfXsdE">Demo Video</a>
+- <a href="https://www.figma.com/file/F2dCqnU2F2zS9lEQz1h1dy/Assignment3?node-id=0%3A1">Figma Design</a>
+- <a href="https://www.figma.com/proto/F2dCqnU2F2zS9lEQz1h1dy/Assignment3?node-id=1%3A2&scaling=contain&hide-ui=1">User Testing </a>
 - <a href="https://github.com/Vandan00007/Covid-App">GitHub Repository</a>
 
 
